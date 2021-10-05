@@ -1,0 +1,1 @@
+SELECT name FROM employees WHERE department_id = 3 AND date_hired BETWEEN '2018-01-01' AND '2018-12-31'
